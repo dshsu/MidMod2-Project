@@ -1,8 +1,6 @@
 Welcome to the Mid-Mod 2 Project for Per Scholas
 
-The user is imagined to be someone with a large stash of yarn who would like to have it organized.
-They will be able to input their stash, labeled with color, brand, weight, fiber, and number of skeins.
-They will then see a list of their items along with a running total of how many skeins of yarn they have.
+The project is a to-do list.
 
 
 # Getting Started with Create React App
